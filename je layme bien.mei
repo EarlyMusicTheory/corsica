@@ -31,7 +31,7 @@
     <body xml:id="b7ojrws1">
       <mdiv xml:id="mr7cs4h">
         <score xml:id="squspeo2">
-          <scoreDef xml:id="s46lojf1">
+          <scoreDef xml:id="s46lojf1" midi.bpm="160">
             <staffGrp xml:id="sru1pfk2">
               <staffDef xml:id="shvm6sm2" clef.line="1" clef.shape="C" keysig="1f" lines="5" mensur.sign="C" mensur.slash="1" modusmaior="2" modusminor="2" n="1" notationtype="mensural" prolatio="2" tempus="2">
                  <label xml:id="lc4vo7u1">C</label>
@@ -46,13 +46,13 @@
             <staff xml:id="s92xyf21" n="1">
               <layer xml:id="lvpoctt1" n="1">
 				    <note xml:id="nal1hft2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="a"/>
-				    <note xml:id="n0303h21" dur="minima" dur.quality="imperfecta" facs="#z74y3ck2" oct="4" pname="b"/>
+				    <note xml:id="n0303h21" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="4" pname="b"/>
                 <dot xml:id="d1apklh1" facs="#z74y3ck2" form="aug"/>
 				    <note xml:id="nrakaq8" dur="semiminima" oct="4" facs="#z74y3ck2" pname="a"/>
 				    <note xml:id="nhezykx2" dur="semibrevis" dur.quality="imperfecta" facs="#z74y3ck2" oct="4" pname="g"/>
                 <dot xml:id="d6fpfil2" facs="#z74y3ck2" form="aug"/>
 				    <note xml:id="nkswd69" dur="minima" facs="#z74y3ck2" oct="4" pname="b"/>
-				    <note xml:id="nwsvzky2" dur="minima" facs="#z74y3ck2" oct="5" pname="c"/>
+				    <note xml:id="nwsvzky2" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="5" pname="c"/>
                 <dot xml:id="d93mzk1" facs="#z74y3ck2" form="aug"/>
                 <note xml:id="n9cwoft1" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
                 <note xml:id="ntwt2s4" dur="semiminima" facs="#z74y3ck2" oct="4" pname="a"/>
@@ -67,9 +67,13 @@
                 <note xml:id="namwgwn2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="g"/>
                 <note xml:id="neheouz2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="g"/>
                 <note xml:id="n7v81uj1" accid="s" dur="minima" oct="4" pname="f"/>
-                <dot xml:id="d5vjpv8" form="aug"/>
                 <note xml:id="nehasuz2" dur="brevis" oct="4" pname="g"/>
                 <rest xml:id="r6kylq1" dur="minima"/>
+                <note xml:id="nal3eft2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="b"/>
+				    <note xml:id="n03dch21" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="5" pname="c"/>
+                <dot xml:id="d1apwsh1" facs="#z74y3ck2" form="aug"/>
+				    <note xml:id="nra2wq8" dur="semiminima" oct="4" facs="#z74y3ck2" pname="b"/>
+                <custos pname="a" oct="4" />
               </layer>
             </staff>
             <staff xml:id="se8yfrx2" n="2">
