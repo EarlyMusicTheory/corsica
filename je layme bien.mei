@@ -11,93 +11,102 @@
       </fileDesc>
       <encodingDesc xml:id="ekxqx701">
          <appInfo xml:id="aulpase">
-            <application xml:id="am1ybuh1" enddate="2024-05-14T15:44:39" startdate="2024-05-14T14:41:40" version="1.0.14">
+            <application xml:id="am1ybuh1" enddate="2024-05-15T10:00:23" startdate="2024-05-14T14:41:40" version="1.0.14">
                <name xml:id="n2ee4be">mei-friend</name>
                <p xml:id="phiunk5">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
- <music xml:id="mtn9kfg">
-    <facsimile xml:id="ffgpc1a1">
-       <surface xml:id="lerma-p16">
-          <graphic xml:id="gnbf2cj2" target="https://objects.library.uu.nl/reader/img.php?obj=1874-27572&amp;img=/13/97/20/139720056453639597855637159520132788360.jpg"/>
-          <zone xml:id="z74y3ck2" lrx="855" lry="149" type="note" ulx="161" uly="51"/>
-       </surface>
-       <surface xml:id="lerma-p17">
-          <graphic xml:id="gr5bb1e" target="https://objects.library.uu.nl/reader/img.php?obj=1874-27572&amp;img=/10/23/73/10237388446188126048728312910125175625.jpg"/>
-       </surface>
-    </facsimile>
-    <body xml:id="b7ojrws1">
-      <mdiv xml:id="mr7cs4h">
-        <score xml:id="squspeo2">
-          <scoreDef xml:id="s46lojf1" midi.bpm="160">
-            <staffGrp xml:id="sru1pfk2">
-              <staffDef xml:id="shvm6sm2" clef.line="1" clef.shape="C" keysig="1f" lines="5" mensur.sign="C" mensur.slash="1" modusmaior="2" modusminor="2" n="1" notationtype="mensural" prolatio="2" tempus="2">
-                 <label xml:id="lc4vo7u1">C</label>
-               </staffDef>
-              <staffDef xml:id="skl4fl21" lines="5" n="2" notationtype="mensural"/>
-              <staffDef xml:id="sye0hcx1" lines="5" n="3" notationtype="mensural"/>
-              <staffDef xml:id="spvxgkx1" lines="5" n="4" notationtype="mensural"/>
-            </staffGrp>
-          </scoreDef>
-          <section xml:id="sbug0vp2">
-            <pb xml:id="pyq4m1l1" facs="#lerma-p16"/>
-            <staff xml:id="s92xyf21" n="1">
-              <layer xml:id="lvpoctt1" n="1">
-				    <note xml:id="nal1hft2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="a"/>
-				    <note xml:id="n0303h21" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="4" pname="b"/>
-                <dot xml:id="d1apklh1" facs="#z74y3ck2" form="aug"/>
-				    <note xml:id="nrakaq8" dur="semiminima" oct="4" facs="#z74y3ck2" pname="a"/>
-				    <note xml:id="nhezykx2" dur="semibrevis" dur.quality="imperfecta" facs="#z74y3ck2" oct="4" pname="g"/>
-                <dot xml:id="d6fpfil2" facs="#z74y3ck2" form="aug"/>
-				    <note xml:id="nkswd69" dur="minima" facs="#z74y3ck2" oct="4" pname="b"/>
-				    <note xml:id="nwsvzky2" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="5" pname="c"/>
-                <dot xml:id="d93mzk1" facs="#z74y3ck2" form="aug"/>
-                <note xml:id="n9cwoft1" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
-                <note xml:id="ntwt2s4" dur="semiminima" facs="#z74y3ck2" oct="4" pname="a"/>
-                <note xml:id="nhsp0gs2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="g"/>
-                <note xml:id="ne27va61" dur="semiminima" facs="#z74y3ck2" oct="4" pname="a"/>
-                <note xml:id="n0ol8fk1" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
-                <note xml:id="nc8c14x1" dur="semiminima" facs="#z74y3ck2" oct="5" pname="c"/>
-                <note xml:id="nib877y1" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
-                <note xml:id="nj03neo2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="g"/>
-                <note xml:id="n1d7ybh" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
-                <note xml:id="nsbw4ow2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="a"/>
-                <note xml:id="namwgwn2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="g"/>
-                <note xml:id="neheouz2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="g"/>
-                <note xml:id="n7v81uj1" accid="s" dur="minima" oct="4" pname="f"/>
-                <note xml:id="nehasuz2" dur="brevis" oct="4" pname="g"/>
-                <rest xml:id="r6kylq1" dur="minima"/>
-                <note xml:id="nal3eft2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="b"/>
-				    <note xml:id="n03dch21" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="5" pname="c"/>
-                <dot xml:id="d1apwsh1" facs="#z74y3ck2" form="aug"/>
-				    <note xml:id="nra2wq8" dur="semiminima" oct="4" facs="#z74y3ck2" pname="b"/>
-                <custos pname="a" oct="4" />
-              </layer>
-            </staff>
-            <staff xml:id="se8yfrx2" n="2">
-              <layer xml:id="l5cxjg1" n="1">
-              <pb xml:id="plwkqb9" facs="#lerma-p16"/>
-                <!-- music content goes in here -->
-              </layer>
-            </staff>
-            <pb xml:id="pxlchdg1" facs="#lerma-p17"/>
-            <staff xml:id="stukydc" n="3">
-              <layer xml:id="la5u8fq1" n="1">
-              <pb xml:id="ptr7h891" facs="#lerma-p17"/>
-                <!-- music content goes in here -->
-              </layer>
-            </staff>
-            <staff xml:id="sud7d56" n="4">
-              <layer xml:id="lsu349a" n="1">
-              <pb xml:id="pw40xqm1" facs="#lerma-p17"/>
-                <!-- music content goes in here -->
-              </layer>
-            </staff>
-          </section>
-        </score>
-      </mdiv>
-    </body>
- </music>
+   <music xml:id="mtn9kfg">
+      <facsimile xml:id="ffgpc1a1">
+         <surface xml:id="lerma-p16">
+            <graphic xml:id="gnbf2cj2" target="https://objects.library.uu.nl/reader/img.php?obj=1874-27572&amp;img=/13/97/20/139720056453639597855637159520132788360.jpg"/>
+            <zone xml:id="z74y3ck2" lrx="856" lry="148" type="note" ulx="162" uly="50"/>
+            <zone xml:id="zlkkf75" lrx="157" lry="209" type="note" ulx="90" uly="154"/>
+         </surface>
+         <surface xml:id="lerma-p17">
+            <graphic xml:id="gr5bb1e" target="https://objects.library.uu.nl/reader/img.php?obj=1874-27572&amp;img=/10/23/73/10237388446188126048728312910125175625.jpg"/>
+         </surface>
+      </facsimile>
+      <body xml:id="b7ojrws1">
+         <mdiv xml:id="mr7cs4h">
+            <score xml:id="squspeo2">
+               <scoreDef xml:id="s46lojf1" midi.bpm="160">
+                  <staffGrp xml:id="sru1pfk2">
+                     <staffDef xml:id="shvm6sm2" clef.line="1" clef.shape="C" keysig="1f" lines="5" mensur.sign="C" mensur.slash="1" modusmaior="2" modusminor="2" n="1" notationtype="mensural" prolatio="2" tempus="2">
+                        <label xml:id="lc4vo7u1">C</label>
+                     </staffDef>
+                     <staffDef xml:id="skl4fl21" lines="5" n="2" notationtype="mensural"/>
+                     <staffDef xml:id="sye0hcx1" lines="5" n="3" notationtype="mensural"/>
+                     <staffDef xml:id="spvxgkx1" lines="5" n="4" notationtype="mensural"/>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sbug0vp2">
+                  <pb xml:id="pyq4m1l1" facs="#lerma-p16"/>
+                  <staff xml:id="s92xyf21" n="1">
+                     <layer xml:id="lvpoctt1" n="1">
+                        <note xml:id="nal1hft2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="a"/>
+                        <note xml:id="n0303h21" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="4" pname="b"/>
+                        <dot xml:id="d1apklh1" facs="#z74y3ck2" form="aug"/>
+                        <note xml:id="nrakaq8" dur="semiminima" oct="4" facs="#z74y3ck2" pname="a"/>
+                        <note xml:id="nhezykx2" dur="semibrevis" dur.quality="imperfecta" facs="#z74y3ck2" oct="4" pname="g"/>
+                        <dot xml:id="d6fpfil2" facs="#z74y3ck2" form="aug"/>
+                        <note xml:id="nkswd69" dur="minima" facs="#z74y3ck2" oct="4" pname="b"/>
+                        <note xml:id="nwsvzky2" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="5" pname="c"/>
+                        <dot xml:id="d93mzk1" facs="#z74y3ck2" form="aug"/>
+                        <note xml:id="n9cwoft1" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
+                        <note xml:id="ntwt2s4" dur="semiminima" facs="#z74y3ck2" oct="4" pname="a"/>
+                        <note xml:id="nhsp0gs2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="g"/>
+                        <note xml:id="ne27va61" dur="semiminima" facs="#z74y3ck2" oct="4" pname="a"/>
+                        <note xml:id="n0ol8fk1" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
+                        <note xml:id="nc8c14x1" dur="semiminima" facs="#z74y3ck2" oct="5" pname="c"/>
+                        <note xml:id="nib877y1" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
+                        <note xml:id="nj03neo2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="g"/>
+                        <note xml:id="n1d7ybh" dur="semiminima" facs="#z74y3ck2" oct="4" pname="b"/>
+                        <note xml:id="nsbw4ow2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="a"/>
+                        <note xml:id="namwgwn2" dur="semiminima" facs="#z74y3ck2" oct="4" pname="g"/>
+                        <note xml:id="neheouz2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="g"/>
+                        <note xml:id="n7v81uj1" accid="s" dur="minima" oct="4" pname="f"/>
+                        <note xml:id="nehasuz2" dur="brevis" oct="4" pname="g"/>
+                        <rest xml:id="r6kylq1" dur="minima" oloc="4" ploc="b"/>
+                        <note xml:id="nal3eft2" dur="semibrevis" facs="#z74y3ck2" oct="4" pname="b"/>
+                        <note xml:id="n03dch21" dur="minima" dur.quality="perfecta" facs="#z74y3ck2" oct="5" pname="c"/>
+                        <dot xml:id="d1apwsh1" facs="#z74y3ck2" form="aug"/>
+                        <note xml:id="nra2wq8" dur="semiminima" oct="4" facs="#z74y3ck2" pname="b"/>
+                        <custos pname="a" oct="4" />
+                        <sb />
+                        <note xml:id="nhz5g72" dur="semibrevis" facs="#zlkkf75" oct="4" pname="a"/>
+                        <dot xml:id="d6fdfil2" facs="#z74y3ck2" form="aug"/>
+                        <note xml:id="ns6nvi2" dur="semiminima" oct="5" pname="d"/>
+                        <note xml:id="ngi0p471" dur="semiminima" oct="5" pname="d"/>
+                        <note xml:id="nas8yif1" dur="semiminima" oct="5" pname="c"/>
+                        <note xml:id="nkza3fy1" dur="semiminima" oct="4" pname="b"/>
+                        <note xml:id="ndnds3p1" dur="semibrevis" oct="4" pname="b"/>
+                     </layer>
+                  </staff>
+                  <staff xml:id="se8yfrx2" n="2">
+                     <layer xml:id="l5cxjg1" n="1">
+                        <pb xml:id="plwkqb9" facs="#lerma-p16"/>
+                        <!-- music content goes in here -->
+                     </layer>
+                  </staff>
+                  <pb xml:id="pxlchdg1" facs="#lerma-p17"/>
+                  <staff xml:id="stukydc" n="3">
+                     <layer xml:id="la5u8fq1" n="1">
+                        <pb xml:id="ptr7h891" facs="#lerma-p17"/>
+                        <!-- music content goes in here -->
+                     </layer>
+                  </staff>
+                  <staff xml:id="sud7d56" n="4">
+                     <layer xml:id="lsu349a" n="1">
+                        <pb xml:id="pw40xqm1" facs="#lerma-p17"/>
+                        <!-- music content goes in here -->
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
 </mei>
