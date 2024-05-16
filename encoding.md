@@ -18,3 +18,10 @@ Use mei-friend features
 3. shifting durations doesn't work yet in mei-friend. needs to be added to mei-friend based on schema
 
 Allow features of mei-friend to react properly to different schemas and notations
+
+Note: mei-friend is not meant to be good at encoding from scratch!
+
+Problem of merging files with different IDs. Problems need to be solved during/by automation.
+
+Mensural MEI explains mensural notation from a different perspective.
+It leads to the question: What is a diplomatic transcription?
